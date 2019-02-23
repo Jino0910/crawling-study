@@ -1,4 +1,6 @@
 from django.shortcuts import render
+
+
 # Create your views here.
 # This function will return and render the home page when url is http://localhost:8000/to_do/.
 def index_page(request):
