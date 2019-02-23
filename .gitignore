@@ -1,3 +1,4 @@
+
 # Created by https://www.gitignore.io/api/linux,django,python,pycharm
 # Edit at https://www.gitignore.io/?templates=linux,django,python,pycharm
 
@@ -273,7 +274,7 @@ fabric.properties
 ### Python Patch ###
 .venv/
 
-# End of https://www.gitignore.io/api/linux,django,python,pychar:q
-
 # Custom
 .idea
+
+# End of https://www.gitignore.io/api/linux,django,python,pycharm
